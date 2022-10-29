@@ -7,17 +7,14 @@ This is a simple project on CryptoCurrency, designed using Python Libraries.<br>
 <li>Pandas</li>
 <li>Matplotlib</li>
 
-Add a Star 🌟 to this 👆 Repositor
+
 
 
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
-  
-
-  
 </p>
 
-
+Add a Star 🌟 to this 👆 Repositor.
 For Sponsor or Project Enquiry
 Email - gunasaikiran8055@gmail.com
 
