@@ -14,7 +14,7 @@ This is a simple project on CryptoCurrency, designed using Python Libraries.<br>
   <img src="https://github.com/Gunasaikiran/Gunasaikiran.github.io/blob/main/assets/img/crypto_graph.jpg" >
 </p>
 
-Add a Star 🌟 to this 👆 Repositor.
+Add a Star 🌟 to this 👆 Repositor.<br>
 For Sponsor or Project Enquiry
 Email - gunasaikiran8055@gmail.com
 
